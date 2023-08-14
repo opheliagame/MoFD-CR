@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/you-can-create-your-own-family/","title":"You can create your own family","tags":["gardenEntry"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/you-can-create-your-own-family/","title":"We want to hear from you","tags":["gardenEntry"],"created":"","updated":""}
 ---
 
 
@@ -12,7 +12,9 @@ Up until now, we have had doctors, researchers, scientists and artists inform ou
 
 In spite of the immense efforts, we think that progress has been slow to come. We believe that by involving you, the general public, who stands to benefit the most by these discussions, we can do much more. 
 
-This survey was designed to help you understand the kind of family that you think is most suited to you, and what it would take to build it with the people that you love. 
+We have designed a survey to help you understand the kind of family that you think is most suited to you, and what it would take to build it with the people that you love. 
 
 We cannot wait to hear what you have to say. 
 Happy brainstorming! 
+
+[Take me to the survey](/survey) 
