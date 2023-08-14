@@ -14,6 +14,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% endfor %}
   </head>
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
+    {%include "components/consolesign.njk"%}
     {%include "components/notegrowthhistory.njk"%}
     
     {% if settings.dgShowFileTree !== true %}
