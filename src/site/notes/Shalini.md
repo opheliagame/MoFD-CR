@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/shalini/","created":"","updated":""}
+---
+
+Shalini had been listening carefully. She said, 'I remember a case from my childhood. My village is near Moradabad. In our locality there were two girls who loved each other but both were forcibly married off by their [[The right to familial love and care\|families]]. Neither girl could adjust to her inlaws. There was continual tension and fighting. Ten days at the inlaws and then a month at their mothers' houses. The in-laws as well as the girls' families were really fed up. In the midst of all this one of the girls had a child. Eventually the family got tired of the struggle to dominate her, and left her alone. After returning home in this way the girls started living together. They lived at one edge of the village. One of them used to wear men's clothes. She drove a taanga. Without caring about people's opinions she used to steer the horse through the bazaar, to the railway station, everywhere. The other girl stayed at home. They stayed together all their lives. I don't know if they are alive today. They had great will to fight their families and [[choice\|society]] in such a forceful manner. If [[Guddi and Aasu\|Guddi and Aasu]] show similar courage, let me know whenever they are in need, they have my support.'
+
+[source](https://www.goodreads.com/book/show/1340679.Loving_Women)
