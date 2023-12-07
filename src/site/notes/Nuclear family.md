@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nuclear-family/"}
+{"dg-publish":true,"permalink":"/nuclear-family/","created":"","updated":""}
 ---
 
 A family group consisting of parents and their children (one or more), typically living in one home residence. 
