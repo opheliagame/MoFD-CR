@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/single-parent-family/"}
+{"dg-publish":true,"permalink":"/single-parent-family/","created":"","updated":""}
 ---
 
 A family group with only one parent and children (one or more). 
