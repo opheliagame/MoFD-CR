@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/validation/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/validation/","tags":["detransition-baby"],"created":"","updated":""}
 ---
 
 *I want that same validation that other moms have. That feeling of womanhood placed in a family. That validation is fine for cis women, but it gets treated as perverted for me. Like, the only reason ‘a man in a dress’ would want to be near kids is not a good one.*
