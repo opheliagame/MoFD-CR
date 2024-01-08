@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meant-to-be/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/meant-to-be/","tags":["detransition-baby"],"created":"","updated":""}
 ---
 
 But if we weren’t meant to be lovers, it doesn’t mean that we weren’t meant to be family.
