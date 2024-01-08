@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/choice/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/choice/","tags":["loving-women-being-lesbian-in-unprivileged-india"],"created":"","updated":""}
 ---
 
 'Would your parents, brothers and sisters accept your living with a woman into the house?' 
