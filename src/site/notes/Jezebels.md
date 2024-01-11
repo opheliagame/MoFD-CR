@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/jezebels/","tags":["the-courtesan-the-mahatma-and-the-italian-brahmin"],"created":"","updated":""}
+---
+
+Polyandrous marriage was deemed 'very revolting'—women were told that they ought to be virtuous, which meant deference to one husband, one master. They had to cultivate modesty, and toplessness was not a step in that direction. The sexual gaze of the patriarchal Victorian was turned towards the breast in Kerala, till then not a cause of concern. When men and women entered temples, they both took off their top cloth. Today only the men are obliged to do this. As late as the 1920s, when Namboothiri brahmin women for the first time acquired the blouse to cover themselves, purists excommunicated them for breaching custom—modesty and true moral superiority lay, they argued, in not covering up. As Aubrey Menen remarked of his grandmother's attitude to his Irish mother, it was thought that 'married women who wore blouses were Jezebels' and 'a wife who dressed herself could only be aiming at adultery'. To cover breasts because younger men demanded it was abhorrent to elders. But these elders were a minority in the face of young 'progressive' men bent on making their women 'virtuous'.
+
+[source](https://www.goodreads.com/book/show/52509565-the-courtesan-the-mahatma-and-the-italian-brahmin)
